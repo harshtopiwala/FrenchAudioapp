@@ -22,7 +22,7 @@ of the interface.
 Working:
 
 1. In the first module, you can translate the english text 
-to french and play/downlond the audio in .mp3 format.
+to french and play/download the audio in .mp3 format.
 2. In the second module, you can create your custom audio 
 files. Just enter the text in french and download/play the
 audio.
